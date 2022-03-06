@@ -1,3 +1,12 @@
+/*
 ._209uk {
+  display: none
+}
+*/
+
+body > #app > .LayoutApp > .app-wrapper-web > span > ._209uk {
+  display: none
+}
+body > #app > .app-wrapper-web > span > ._209uk {
   display: none
 }
